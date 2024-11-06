@@ -28,7 +28,6 @@ Each page uses Flexbox for layout. Here are the primary Flexbox properties used:
 - `flex-wrap: wrap;` - Allows items to wrap onto new rows.
 - `justify-content` - Aligns items horizontally within the container.
 
-## Installation
 To view the project:
 1. Clone the repository: `git clone https://github.com/your-username/CSS_FLEX.git`
 2. Open `index.html` in your browser.
